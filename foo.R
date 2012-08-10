@@ -1,1 +1,6 @@
-rnorm(100)
+x <- rnorm(100)
+hist(x)
+
+summary(x)
+
+
