@@ -4,4 +4,6 @@ hist(x)
 summary(x)
 plot(x)
 
+str(x)
+
 
